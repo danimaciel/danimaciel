@@ -10,9 +10,9 @@
 ---
 ## 🔗 Onde me encontrar?
 
-- 🏢 **Lattes**: [Lattes](http://lattes.cnpq.br/9196370833242212)
-- 🔗 **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/danimacielp/)
-- 📜 **ORCID**: [ORCID](https://orcid.org/0000-0003-0539-622X)
+- 🏢 **Lattes**: [http://lattes.cnpq.br/9196370833242212](http://lattes.cnpq.br/9196370833242212)
+- 🔗 **LinkedIn**: [https://www.linkedin.com/in/danimacielp/](https://www.linkedin.com/in/danimacielp/)
+- 📜 **ORCID**: [https://orcid.org/0000-0003-0539-622X](https://orcid.org/0000-0003-0539-622X)
 - 📧 **Contato**: danimacielp@gmail.com
 
 ---
