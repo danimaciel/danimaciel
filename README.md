@@ -19,11 +19,13 @@
 ## 📚 Alguns trabalhos 
 
 📄 **AgroRadarEval**  
-🔗 [Publicação](https://www.jotmi.org/index.php/GT/article/view/4597)  
+🔗 [Publicação](https://www.jotmi.org/index.php/GT/article/view/4597) 
+
 🔗 [Aplicação](https://khi7yy-daniela-maciel0pinto.shinyapps.io/agroradareval_en/) 
 
 📄 **Ambitec-Tics**  
 🔗 [Publicação (Série Embrapa)](https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/1123718/1/P-Ambitec-TICs-Avaliacao-de-impactos-de-tecnologias-....pdf) 
+
 🔗 [Publicação (Artigo)](https://www.jotmi.org/index.php/GT/article/view/3616) 
 
 📄 **TecAmazônia**  
@@ -31,7 +33,7 @@
 
 ---
 ## 🚀 Projetos em Andamento
-🔸 **[AgroRadarEval](https://github.com/seu-usuario/agro-radar-eval)** – Ferramenta para apoiar a realização da pesquisa e avaliação responsável (RRI e RRA), focando na geração de maior impacto societal.  
+🔸 **[AgroRadarEval](https://github.com/danimaciel/agroradareval)** – Ferramenta para apoiar a realização da pesquisa e avaliação responsável (RRI e RRA), focando na geração de maior impacto societal.  
 🔸 **[Campinas Social](https://flic.kr/s/aHBqjC66k9)** – Registros fotográficos do município de Campinas, explorando múltiplas faces: belezas e contrastes, histórias e cotidianos, gentilezas e abandonos...
 
 ✉️ **Sinta-se à vontade para entrar em contato!** 🚀
