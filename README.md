@@ -1,8 +1,8 @@
 # 👋 Olá! Eu sou Daniela Maciel
 
-🌱 Cientista, pesquisadora e entusiasta da gestão e avaliação de impacto da pesquisa (especialmente agrícola)!  
+🌱 Sou pesquisadora e entusiasta da gestão da inovação e avaliação de impacto da pesquisa (especialmente agrícola)!  
 🎯 Interesses: Gestão da Inovação, Gestão e Avaliação de P&D, Ciência e Tecnologia, Impacto da Pesquisa, Gestão do Conhecimento, Gestão de dados.  
-💡 Atualmente, sou doutoranda em Política Científica e Tecnológica (DPCT) na Unicamp, onde desenvolvo pesquisas focadas na análise de dados aplicada à avaliação da ciência e inovação. Utilizo a linguagem R para explorar técnicas como modelagem de tópicos, tokenização e análises estatísticas, com o objetivo de apoiar a gestão da inovação e a avaliação da pesquisa.
+💡 Atualmente, sou doutoranda em Política Científica e Tecnológica (DPCT) na Unicamp, onde desenvolvo pesquisas focadas em avaliação de impatos responsável da pesquisa. Utilizo a linguagem R para explorar técnicas como modelagem de tópicos, tokenização e análises estatísticas, com o objetivo de apoiar a gestão da inovação e a avaliação da pesquisa.
 
 😎 No meu lazer, gosto de fotografar, ouvir música, escrever e assistir filmes (não necessariamente nesta ordem).
 
