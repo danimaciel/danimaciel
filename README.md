@@ -34,6 +34,6 @@
 ---
 ## 🚀 Projetos em Andamento
 🔸 **[AgroRadarEval](https://github.com/danimaciel/agroradareval)** – Ferramenta para apoiar a realização da pesquisa e avaliação responsável (RRI e RRA), focando na geração de maior impacto societal.  
-🔸 **[Campinas Social](https://flic.kr/s/aHBqjC66k9)** – Registros fotográficos do município de Campinas, explorando múltiplas faces: belezas e contrastes, histórias e cotidianos, gentilezas e abandonos...
+<!--🔸 **[Campinas Social](https://flic.kr/s/aHBqjC66k9)** – Registros fotográficos do município de Campinas, explorando múltiplas faces: belezas e contrastes, histórias e cotidianos, gentilezas e abandonos... -->
 
 ✉️ **Sinta-se à vontade para entrar em contato!** 🚀
