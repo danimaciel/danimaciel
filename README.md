@@ -2,7 +2,7 @@
 
 🌱 Sou pesquisadora e entusiasta da gestão da inovação e avaliação de impacto da pesquisa (especialmente agrícola)!  
 🎯 Interesses: Gestão da Inovação, Gestão e Avaliação de P&D, Ciência e Tecnologia, Impacto da Pesquisa, Gestão do Conhecimento, Gestão de dados.  
-💡 Atualmente, sou doutoranda em Política Científica e Tecnológica (DPCT) na Unicamp, onde desenvolvo pesquisas focadas na avaliação responsável de impactos da pesquisa. Utilizo a linguagem R para aplicar técnicas como modelagem de tópicos, tokenização e análises estatísticas, com o objetivo de compreender e evidenciar as contribuições da pesquisa em suas diversas dimensões.
+💡 Sou doutora em Política Científica e Tecnológica (DPCT) na Unicamp, tendo desenvolvido pesquisas focadas na avaliação responsável de impactos da pesquisa. Utilizo a linguagem R para aplicar técnicas como modelagem de tópicos, tokenização e análises estatísticas, com o objetivo de compreender e evidenciar as contribuições da pesquisa em suas diversas dimensões.
 
 ---
 ## 🔗 Onde me encontrar?
